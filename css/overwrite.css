@@ -1,0 +1,14 @@
+.woocommerce-breadcrumb .breadcrumb-separator {
+  padding: 0;
+  min-width: 10px;
+}
+.woocommerce-breadcrumb .breadcrumb-separator:after {
+  font-family: 'GillSansMTStd-Light', Calibri, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1rem;
+  content: ">";
+  opacity: 1;
+  width: auto;
+  height: auto;
+}

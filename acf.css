@@ -1,0 +1,41 @@
+
+.acf_content > h2 { color: red; }
+
+.acf-fields > .acf-field-579356625a669,
+.acf-fields > .acf-field-57971460c06ba,
+.acf-fields > .acf-field-56ed416e230c1 { margin-top: 20px; }
+
+#acf-group_579344ed26218 { padding-bottom: 20px; }
+
+.acf-fields > .acf-field-57971460c06ba { margin-bottom: 20px; }
+
+.acf-fields > .acf-field-57b614a039692,
+.acf-fields > .acf-field-57b5fe7555911,
+.acf-fields > .acf-field-57b6100f0247f,
+.acf-fields > .acf-field-57b6101002480,
+.acf-fields > .acf-field-57b6100e0247e,
+.acf-fields > .acf-field-572dee05f3029,
+.acf-fields > .acf-field-572deed6ccbd8,
+.acf-fields > .acf-field-572def00e2b7f,
+.acf-fields > .acf-field-572defa7d15c5,
+.acf-fields > .acf-field-572df03eae9a6,
+.acf-fields > .acf-field-572df05689129,
+.acf-fields > .acf-field-572df0a336236,
+.acf-fields > .acf-field-572df08d36235,
+.acf-fields > .acf-field-572df07536234,
+.acf-fields > .acf-field-572df11848ac5,
+.acf-fields > .acf-field-572df12b4f1d5,
+.acf-fields > .acf-field-572df13aae3b6,
+.acf-fields > .acf-field-572df1594c11c,
+.acf-fields > .acf-field-572df170f307d,
+.acf-fields > .acf-field-572df1837b66a {
+  clear: none;
+  float: left;
+  width: 30%;
+}
+
+.acf-fields:after {
+  content: "";
+  display: table;
+  clear: both;
+}
